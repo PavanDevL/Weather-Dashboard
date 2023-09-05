@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "dotenv": "^16.3.1",
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
@@ -24,11 +25,11 @@
       "react-app/jest"
     ]
   },
-  "resolutions":{
-    "path":"path-browserify"
+  "resolutions": {
+    "path": "path-browserify"
   },
-  "resolve.fallback":{
-    "path":"path-browserify"
+  "resolve.fallback": {
+    "path": "path-browserify"
   },
   "browserslist": {
     "production": [
