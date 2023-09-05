@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Line } from 'react-chartjs-2';
-import { useRef } from 'react';
 
 //import 'dotenv/config'
 //require('dotenv').config();
